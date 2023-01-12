@@ -9,7 +9,7 @@ const connection = (config) => {
         console.error(error);
     }
 
-}
+};
 
 module.exports = {
     connection
